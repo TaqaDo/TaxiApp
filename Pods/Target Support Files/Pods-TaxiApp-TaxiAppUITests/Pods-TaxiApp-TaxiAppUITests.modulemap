@@ -1,0 +1,6 @@
+framework module Pods_TaxiApp_TaxiAppUITests {
+  umbrella header "Pods-TaxiApp-TaxiAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
