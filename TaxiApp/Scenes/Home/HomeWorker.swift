@@ -104,5 +104,6 @@ final class HomeWorker: HomeWorkingLogic {
             completion(trip)
         }
     }
+
     //
 }
